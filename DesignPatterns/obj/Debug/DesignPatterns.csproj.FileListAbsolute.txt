@@ -1,0 +1,6 @@
+C:\Users\Roberto Menegais\RiderProjects\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+C:\Users\Roberto Menegais\RiderProjects\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+C:\Users\Roberto Menegais\RiderProjects\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csprojAssemblyReference.cache
+C:\Users\Roberto Menegais\RiderProjects\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\Roberto Menegais\RiderProjects\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.exe
+C:\Users\Roberto Menegais\RiderProjects\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb
